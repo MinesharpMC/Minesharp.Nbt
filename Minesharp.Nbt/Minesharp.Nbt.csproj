@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <Title>Minesharp.Nbt</Title>
+        <Authors>Roxeez</Authors>
+        <Description>Library made to easily serialize/deserialize NBT into text/bytes</Description>
+        <PackageProjectUrl>https://github.com/MinesharpMC/Minesharp.Nbt</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/MinesharpMC/Minesharp.Nbt</RepositoryUrl>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>Minecraft, Client, Server, NBT</PackageTags>
+        <IsPackable>true</IsPackable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="../LICENSE" Pack="true" Visible="false" PackagePath="" />
+        <None Include="../README.md" Pack="true" Visible="false" PackagePath="" />
+    </ItemGroup>
+
+</Project>

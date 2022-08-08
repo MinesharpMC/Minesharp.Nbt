@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesharp.Nbt", "Minesharp.Nbt\Minesharp.Nbt.csproj", "{68A4DD1A-DCEB-4425-A79B-F461BADD277B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesharp.Nbt.Example", "Minesharp.Nbt.Example\Minesharp.Nbt.Example.csproj", "{5939D751-6E33-4D9D-8AB2-93416A58D7F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A4DD1A-DCEB-4425-A79B-F461BADD277B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A4DD1A-DCEB-4425-A79B-F461BADD277B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A4DD1A-DCEB-4425-A79B-F461BADD277B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A4DD1A-DCEB-4425-A79B-F461BADD277B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5939D751-6E33-4D9D-8AB2-93416A58D7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5939D751-6E33-4D9D-8AB2-93416A58D7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5939D751-6E33-4D9D-8AB2-93416A58D7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5939D751-6E33-4D9D-8AB2-93416A58D7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
