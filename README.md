@@ -1,4 +1,4 @@
-# NamedBinaryTag
+# Minesharp.Nbt
 ### Using static methods
 ```csharp
 public static void Main(string[] args)
